@@ -1,5 +1,5 @@
 
-# Space Marine 2 - Fov Patcher
+# Space Marine 2 - Fov Patcher [OUTDATED]
 
 A Patcher that modifies .sso files from .pak (Archive Files) to change Field of View.
 
